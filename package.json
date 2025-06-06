@@ -1,0 +1,22 @@
+{
+  "name": "devops-na-pratica-fase1",
+  "version": "1.0.0",
+  "description": "Projeto Fase 1 - DevOps na Prática",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "lint": "echo 'Linting... (No linter configured yet)'",
+    "test": "node tests/simple.test.js",
+    "build": "echo 'Building... (No build step needed for simple Node.js)'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroBarp/devops-na-pratica-fase1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroBarp/devops-na-pratica-fase1/issues"
+  },
+  "homepage": "https://github.com/PedroBarp/devops-na-pratica-fase1#readme"
+}
